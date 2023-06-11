@@ -2,7 +2,7 @@
 
 See here - https://matrix-js-three.vercel.app/
 
-![Screenshot_1](/assets/shot1.jpg.jpg)
+![Screenshot_1](/assets/shot1.jpg)
 
 
 ### Learn More
